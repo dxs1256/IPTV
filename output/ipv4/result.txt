@@ -1,16 +1,12 @@
 🕘️更新时间,#genre#
-2025-09-22 06:22:37,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-09-22 18:25:26,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 
 央视频道,#genre#
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 CCTV-3,http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://qjrhc.jydjd.top:2911/udp/224.1.100.104:11111
-CCTV-4,http://61.184.46.85:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV-5,http://61.184.46.85:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV-8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
@@ -24,31 +20,28 @@ CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 东方卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.48:11111
-北京卫视,http://omnix.cn:4000/udp/225.1.8.21:8002
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://omnix.cn:4000/udp/225.1.8.21:8002
 东南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.56:11111
 深圳卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.40:11111
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广西卫视,http://nas.hssvm.com:8888/udp/225.1.2.81:5002
-贵州卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.58:11111
-贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
 河南卫视,http://180.165.12.90:4022/rtp/239.45.0.3:5140
+河南卫视,http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 辽宁卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.92:11111
 青海卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.127:11111
-山东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.50:11111
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 云南卫视,http://180.154.61.39:4022/rtp/239.45.0.4:5140
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
 
 港澳台/国际,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
-翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://8.138.7.223/tv/hot.php?id=68
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
