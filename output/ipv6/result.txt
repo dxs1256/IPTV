@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-27 06:22:34,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-09-27 18:22:34,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -491,6 +491,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 西藏卫视,https://stream1.freetv.fun/f8e8db518a6dfddd119d8b4ab6988e5e2b831145ef193422e8a4b3edfa0d92f4.m3u8
 
 港澳台/国际,#genre#
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
